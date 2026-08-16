@@ -67,12 +67,3 @@ ratings, votes, online ordering, approximate cost and other attributes.
 4. Zomato can work with restaurants to improve offline customer experience, as offline orders receive lower ratings compared with online orders.
 
 5. Zomato can develop category-specific marketing strategies, such as promoting online-order discounts for cafes and offers that encourage greater platform engagement with dining restaurants.
-
-## 📁 Project Structure
-
-```text
-data/
-notebooks/
-images/
-README.md
-requirements.txt
